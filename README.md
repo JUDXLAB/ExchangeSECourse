@@ -1,4 +1,4 @@
-# Exchange Server Subscription Edtion(订阅版)管理员培（大师课）
+# Exchange Server Subscription Edtion(订阅版)大师课
 
 ## 模块 0：概述
 - Exchange SE 架构与角色
